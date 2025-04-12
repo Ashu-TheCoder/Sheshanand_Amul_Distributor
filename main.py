@@ -1,11 +1,11 @@
 import streamlit as st
 
 # Set page title
-st.set_page_config(page_title="Product Distributor",page_icon="🍫", layout="wide")
+st.set_page_config(page_title="Amul Distributor",page_icon="🍫", layout="wide")
 
 # Header
-st.title("Amul Products Distributor")
-st.subheader("Punam Uphar Gruha, Sangadi-Bhandara-Maharashtra")
+st.markdown("<h1 style='text-align: center;'>Amul Products Distributor</h1>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>Punam Uphar Gruha, Sangadi-Bhandara-Maharashtra</h3>", unsafe_allow_html=True)
 
 # Columns Layout
 col1, col2 = st.columns(2)
