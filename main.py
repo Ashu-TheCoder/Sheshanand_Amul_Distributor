@@ -29,7 +29,7 @@ with col2:
 # Footer
 st.write("---")
 st.markdown("© 2025 Punam Uphar Gruha | All Rights Reserved")
-st.markdown(f"""**👨‍💻 Developed by Ashish Bonde** <br> 💬 **🚀 Want a stunning mini-website for your business?** <br>I can help you create an attractive and functional site tailored to your needs! <br>📲 Connect with me on: <br>
+st.markdown(f"""**👨‍💻 Developed by Ashish Bonde** <br> 💬 **🚀 Want a stunning mini-website for your business?** <br>I can help you create an attractive site tailored to your needs! <br>📲 Connect with me on: <br>
 [WhatsApp](https://api.whatsapp.com/send?phone=918484864084&text=Hi%20Ashish!%20I%20recently%20visited%20your%20Sheshanand%20Amul%20website,%20I'm%20interested%20in%20getting%20a%20custom%20mini-website%20for%20my%20business.%20Excited%20to%20connect%20and%20discuss%20the%20details!%20Let's%20chat!) <br>
 [LinkedIn](https://www.linkedin.com/in/ashish-bonde/)
 """, unsafe_allow_html=True)
