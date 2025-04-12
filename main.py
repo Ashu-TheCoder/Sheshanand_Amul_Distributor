@@ -15,7 +15,8 @@ with col1:
     st.header("Contact Details")
     st.markdown("📧 Email: **yrahele@gmail.com**")
     st.markdown("📍 Location: Sangadi, Bhandara, Maharashtra")
-    st.markdown("📞 Phone: +91 8329312092")  
+    st.markdown("📞 Phone: +91 8329312092") 
+    st.markdown("<h4 style='text-align: center;'><a href='https://maps.app.goo.gl/WoczdLAzxdD7T3Bw5?g_st=awb' target='_blank'>📍 View Location on Google Maps</a></h4>", unsafe_allow_html=True)
 
 # Column 2: About Business
 with col2:
